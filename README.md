@@ -1,3 +1,11 @@
+# Reference from 
+```bash
+https://swathireddy.hashnode.dev/setting-up-two-tier-application-deployment-on-kubernetes-cluster-a-step-by-step-guide-introduction
+```
+
+```bash
+https://github.com/devops-CloudComputing/TwoTier-Flask-App-Deployment/blob/master/message.sql
+```
  
 # Flask App with MySQL Docker Setup
 
